@@ -3,4 +3,4 @@ project(3weekHW C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(3weekHW programming.c sum_error.c)
+add_executable(3weekHW programming.c)

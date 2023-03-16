@@ -11,7 +11,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/izuna/Desktop/github/KwangWoon/3weekHW/cmake-build-debug"
+			"value" : "/Users/izuna/Desktop/Univ/KwangWoon/3weekHW/cmake-build-debug"
 		},
 		{
 			"name" : "3weekHW_IS_TOP_LEVEL",
@@ -35,7 +35,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/izuna/Desktop/github/KwangWoon/3weekHW"
+			"value" : "/Users/izuna/Desktop/Univ/KwangWoon/3weekHW"
 		},
 		{
 			"name" : "CMAKE_ADDR2LINE",
@@ -91,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/izuna/Desktop/github/KwangWoon/3weekHW/cmake-build-debug"
+			"value" : "/Users/izuna/Desktop/Univ/KwangWoon/3weekHW/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -419,7 +419,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/izuna/Desktop/github/KwangWoon/3weekHW/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/izuna/Desktop/Univ/KwangWoon/3weekHW/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/izuna/Desktop/github/KwangWoon/3weekHW"
+			"value" : "/Users/izuna/Desktop/Univ/KwangWoon/3weekHW"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
