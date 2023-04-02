@@ -123,5 +123,5 @@ int main(void){
 	result = result | (c4 << 24);
 
 	printf("결과값: %x\n", result);
-    
+    return 0;
 }
