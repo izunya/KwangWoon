@@ -98,3 +98,6 @@ _deps
 
 # Ds files
 *.DS_Store
+
+# other files
+.idea
